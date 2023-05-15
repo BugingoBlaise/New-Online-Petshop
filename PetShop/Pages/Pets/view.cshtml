@@ -1,0 +1,39 @@
+﻿@page
+@model PetShop.Pages.Pets.viewModel
+@{
+}
+<div class="container">
+    <br />
+    <h2>List of Pets</h2>
+    <a class='btn btn-primary btn-sm' href='/Pets/create'>New Pets</a>
+    <p></p>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Pet Id</th>
+                <th>Pet Category</th>
+                <th>Pet Age</th>
+                <th>Pet Price</th>
+                <th>Pet Photo</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.petsList)
+            {
+                <tr>
+                    <td>@item.PetId</td>
+                    <td>@item.PetCategory</td>
+                    <td>@item.PetAge</td>
+                    <td>@item.PetPrice</td>
+                    <td> <img class="rounded" src="@item.PetPhoto" height="50" width="70" /> </td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="/Pets/update?id=@item.PetId">Edit</a>
+                        <a class="btn btn-danger btn-sm" href="/Pets/delete?id=@item.PetId">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

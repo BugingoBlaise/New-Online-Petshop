@@ -1,0 +1,23 @@
+﻿@page
+@model PetShop.Pages.Login.LoginModel
+@{
+}
+
+<head>
+    <title>Login Form</title>
+    
+</head>
+<body>
+    <h2>Login Form</h2>
+    <div class="container">
+        <form action="/login" method="post" novalidate>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required><br>
+            <span class="error" id="username-error"></span>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br>
+            <span class="error" id="password-error"></span>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>

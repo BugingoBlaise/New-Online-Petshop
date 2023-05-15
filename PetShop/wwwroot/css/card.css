@@ -1,0 +1,55 @@
+.cards-container {
+    display: flex;
+    justify-content: space-between; /* space-between will add space between cards and distribute them evenly */
+    gap: 20px; /* gap will add spacing between cards */
+   flex-wrap:wrap;
+   padding:4px 7px 2px 4px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+   
+}
+
+.card-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+.card-category, .card-price {
+    font-size: 1.2rem;
+    margin: 5px 0;
+}
+
+.buy-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+}
+
+    .buy-button:hover {
+        background-color: #3e8e41;
+    }

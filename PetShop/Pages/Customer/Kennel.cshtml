@@ -1,0 +1,30 @@
+﻿@page
+@model PetShop.Pages.Customer.KennelModel
+@{
+}
+
+<br />
+<div class="container">
+    <h2>Ready to get Adopted</h2>
+</div>
+
+<div class="cards-container container">
+@foreach (var item in Model.petsList)
+{
+   
+
+      <div class="card">
+        <img class="rounded" src="@item.PetPhoto" height="250" width="240" />
+        <div class="card-content">
+            <h2 class="card-title">@item.PetCategory</h2>
+            <p class="card-category"> Age: @item.PetAge</p>
+            <p class="card-price">$ @item.PetPrice</p>
+            <button class="buy-button">Buy Now</button>
+        </div>
+    </div>
+   
+}
+</div>
+
+
+

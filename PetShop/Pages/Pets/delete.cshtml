@@ -1,0 +1,42 @@
+﻿@page
+@using System.Data.SqlClient;
+@model PetShop.Pages.Pets.deleteModel
+@{
+    String id = Request.Query["id"];
+    try
+    {
+
+        String conString = "Data Source=BLAISEM\\BLAISE;Initial Catalog=PetShop;Integrated Security=True";
+        using (SqlConnection con = new SqlConnection(conString))
+        {
+            con.Open();
+            String query = "DELETE FROM Pet where Pet_Id=@id";
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            {
+                cmd.Parameters.AddWithValue("@id", id);
+
+
+
+                cmd.ExecuteNonQuery();
+
+
+
+
+            }
+
+        }
+
+
+
+
+    }
+    catch (Exception ex)
+    {
+
+        Console.WriteLine("Error: " + ex);
+
+    }
+    Response.Redirect("/Pets/view");
+
+
+}

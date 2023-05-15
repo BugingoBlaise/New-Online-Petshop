@@ -1,0 +1,201 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="">
+    <div class="header_section">
+        @*<div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div><a href="index.html"><img src="images/logo.png"></a></div>
+                </div>
+                <div class="col-md-8">
+                    <div class="menu_text">
+                        <ul>
+                            <li class="last">Log in / Register</li>
+                            <li class="last"><a href="#"><img src="images/search-icon.png"></a></li>
+                            <li class="active">
+                                <div id="myNav" class="overlay">
+                                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                                    <div class="overlay-content">
+                                        <a href="index.html">Home</a>
+                                        <a href="about.html">About</a>
+                                        <a href="gallery.html">Gallery</a>
+                                        <a href="#">Pets</a>
+                                        <a class="nav-link text-dark" asp-area="" asp-page="/Manager/View">Admin</a>
+                                        <a href="contact.html">Contact</a>
+                                    </div>
+                                </div>
+                                <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+                    </div>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>*@
+        <div class="banner_main">
+            <div class="container">
+                <div class="ram">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h1 class="taital">Best Pet Shop</h1>
+                            <p class="consectetur_text">consectetur adipiscing elit, sed do eiusmod tempor incidid</p>
+                            <div class="banner_bt">
+                                <button class="read_bt">Read More</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h1 class="numbar_text">01</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- section banner end -->
+    <!-- section about start -->
+    <div class="about_section">
+        <div class="about_text">
+            <div class="container">
+                <h1 class="about_taital_1"><strong><span style="color: #f7941d;">About</span> Dogs</strong></h1>
+                <p class="magna_text"> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer</p>
+                <div class="about_bt">
+                    <button class="more_bt">Read More</button>
+                </div>
+                <div class="about">
+                    <h1 class="numbar_text">02</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- section about end -->
+    <!-- section gallery start -->
+    <div class="gallery_main layout_padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="about_taital"><strong><span style="color: #ffffff;">Our</span> Dogs</strong></h1>
+                    <p class="sed_text"> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer</p>
+
+                </div>
+            </div>
+            <div class="gallery_images">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <div class="gallery_blog">
+                            <img src="~/images/gallery-img1.jpg" style="max-width: 100%; height: 300px; width: 100%;">
+                            <div class="overlay">
+                                <div class="text"><strong>PuppyDogPetAnimal</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5">
+                        <div class="gallery_blog">
+                            <img src="~/images/gallery-img2.jpg" style="max-width: 100%; height: 300px; width: 100%;">
+                            <div class="overlay">
+                                <div class="text"><strong>PuppyDogPetAnimal</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gallery_images">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <div class="gallery_blog">
+                            <img src="~/images/gallery-img3.jpg" style="max-width: 100%; width: 100%;">
+                            <div class="overlay">
+                                <div class="text"><strong>PuppyDogPetAnimal</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-7">
+                        <div class="gallery_blog">
+                            <img src="images/gallery-img4.jpg" style="max-width: 100%; height: 300px; width: 100%;">
+                            <div class="overlay">
+                                <div class="text"><strong>PuppyDogPetAnimal</strong></div>
+                            </div>
+                        </div>
+                        <div class="gallery_blog">
+                            <img src="~/images/gallery-img5.jpg" style="max-width: 100%; height: 297px; width: 100%;">
+                            <div class="overlay">
+                                <div class="text"><strong>PuppyDogPetAnimal</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gallery_section_2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h1 class="pet_taital">Pet adoption be part of something beautiful</h1>
+                    <p class="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit </p>
+                    <div class="banner_bt">
+                        <button class="dog_bt">Read More</button>
+                    </div>
+                    <div class="box_3">
+                        <h1 class="numbar">03</h1>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="dog_img"><img src="~/images/dog-img.png" style="max-width: 100%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- section gallery end -->
+    <!-- section get in touch start -->
+    <div class="touch_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="get_taital"><strong><span style="color: #ffffff;">Contact</span>  Us</strong></h1>
+                </div>
+            </div>
+            <div class="email_box">
+                <div class="input_main">
+                    <div class="container">
+                        <form action="/action_page.php">
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Name" name="Name">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Your Phone Numbar" name="Name">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Your Email" name="Email">
+                            </div>
+
+                            <div class="form-group">
+                                <textarea class="massage-bt" placeholder="Massage" rows="5" id="comment" name="Massage"></textarea>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="send_btn">
+                        <button type="button" class="main_bt"><a href="#">Send</a></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="touch_section_2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="our_texts">Our Newsletter</h1>
+                    <div class="input-group mb-3">
+                        <input class="email_bt" type="text" class="form-control" placeholder="Enter your email">
+                        <div class="input-group-append">
+                            <button class="subscribe_bt" class="btn btn-primary" type="Subscribe">Subscribe</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

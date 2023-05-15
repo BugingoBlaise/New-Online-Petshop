@@ -1,0 +1,288 @@
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\appsettings.Development.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\appsettings.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.staticwebassets.runtime.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.exe
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.deps.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.runtimeconfig.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\PetShop.pdb
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.AssemblyReference.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfoInputs.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfo.cs
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CoreCompileInputs.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cs
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.PetShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.build.PetShop.props
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetShop.props
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetShop.props
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\scopedcss\bundle\PetShop.styles.css
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\scopedcss\projectbundle\PetShop.bundle.scp.css
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\refint\PetShop.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.pdb
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.genruntimeconfig.cache
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\ref\PetShop.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Azure.Core.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Azure.Identity.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SEMESTER SIX\DOTNET\FINAL PROJECT\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CopyComplete
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfo.cs
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cs
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\refint\PetShop.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.pdb
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\appsettings.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.staticwebassets.runtime.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.exe
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.deps.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.runtimeconfig.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\PetShop.pdb
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.PetShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.build.PetShop.props
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetShop.props
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetShop.props
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\bundle\PetShop.styles.css
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\projectbundle\PetShop.bundle.scp.css
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CopyComplete
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\PetShop.genruntimeconfig.cache
+C:\Users\BPR\Downloads\petshop\PetShop\PetShop\obj\Debug\net6.0\ref\PetShop.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\appsettings.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.staticwebassets.runtime.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.exe
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.deps.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.runtimeconfig.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.pdb
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfo.cs
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cs
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.PetShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.build.PetShop.props
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetShop.props
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetShop.props
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\bundle\PetShop.styles.css
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\projectbundle\PetShop.bundle.scp.css
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CopyComplete
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\refint\PetShop.dll
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.pdb
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.genruntimeconfig.cache
+C:\Users\Mugisha\Documents\New folder\PetShop\PetShop\PetShop\obj\Debug\net6.0\ref\PetShop.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\appsettings.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.staticwebassets.runtime.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.exe
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.deps.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.runtimeconfig.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\PetShop.pdb
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.AssemblyInfo.cs
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.RazorAssemblyInfo.cs
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.PetShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.build.PetShop.props
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetShop.props
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetShop.props
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\bundle\PetShop.styles.css
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\scopedcss\projectbundle\PetShop.bundle.scp.css
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.csproj.CopyComplete
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\refint\PetShop.dll
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.pdb
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\PetShop.genruntimeconfig.cache
+C:\Users\Mugisha\Desktop\PROJECT GROUP\PetShop\PetShop\PetShop\obj\Debug\net6.0\ref\PetShop.dll

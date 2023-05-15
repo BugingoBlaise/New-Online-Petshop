@@ -1,0 +1,65 @@
+﻿@page
+@model PetShop.Pages.Pets.updateModel
+@{
+}
+<h2>New Pet</h2>
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show " role="alert">
+
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+<form method="POST">
+    <input type="hidden" name="id" value="@Model.info.PetId" />
+    <div class="row mb-3">
+
+        <label class="col-sm-3 col-form-label">Category</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="category" value="@Model.info.PetCategory" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+
+        <label class="col-sm-3 col-form-label">Age</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="age" value="@Model.info.PetAge" />
+        </div>
+    </div>
+    <div class="row mb-3">
+
+        <label class="col-sm-3 col-form-label">Price</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="price" value="@Model.info.PetPrice" />
+        </div><label class="col-sm-3 col-form-label">Photo</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="photo" value="@Model.info.PetPhoto />
+        </div>
+    </div>
+
+
+    @if (Model.successMessage.Length > 1)
+    {
+        <div class="alert alert-success alert-dismissible fade show " role="alert">
+
+            <strong>@Model.successMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+        </div>
+    }
+
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/Pets/view" role="button">Cancel</a>
+        </div>
+
+
+    </div>
+
+
+</form>
